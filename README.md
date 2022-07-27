@@ -1,6 +1,6 @@
 # KlayMint
 
-KLAYMINT mints KIP-17 tokens to a designated address having scored above 50% in quiz question set about the Klaytn Blockchain. The goal of this article is to explain how to build a frontend that interacts with our smart contracts using Caver-js. We would also be modifying our nft smart contract to include a mint-price and few other changes to suite our development needs.
+KLAYMINT is a minting website where users can mints KIP-17 tokens to their address having scored above 50% in quiz question set about the Klaytn Blockchain. The goal of this article is to explain how to build a frontend that interacts with our smart contracts using Caver-js. We would also be modifying our nft smart contract to include a mint-price and few other changes to suite our development needs.
 
 ## Demo 
 
