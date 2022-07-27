@@ -4,7 +4,7 @@ KLAYMINT mints KIP-17 tokens to a designated address having scored above 50% in 
 
 ## Demo 
 
-![finalDemo](https://user-images.githubusercontent.com/72970379/176818365-24bfe292-29ac-411b-afbf-b299fac7cbcb.gif)
+![kmDemo](https://user-images.githubusercontent.com/72970379/181147609-74a92827-f195-42ff-a74d-74fe209fba7b.gif)
 
 The Site is live [here](https://klaymint.netlify.app/)
 
